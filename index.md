@@ -20,4 +20,8 @@
 
 # 客户端列表
 
+Windows建议用[V2RayN](https://github.com/2dust/v2rayN)
+Mac OS X建议用[V2RayX](https://github.com/Cenmrev/V2RayX)
+iOS建议用[Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
+
 参见[官方手册](https://www.v2ray.com/ui_client/)
